@@ -8,6 +8,8 @@
 ![Tauri](https://img.shields.io/badge/Tauri-2.0-FFC131?logo=tauri&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.0-38B2AC?logo=tailwind-css&logoColor=white)
 
+<img width="1249" height="752" alt="image" src="https://github.com/user-attachments/assets/a2ca2050-da7f-4007-a714-21e69b899de4" />
+
 NoteDown is a versatile workspace that combines the best of linear note-taking, infinite canvas whiteboarding, and task management. whether you're brainstorming ideas, organizing your day, or writing detailed documentation, NoteDown adapts to your flow.
 
 ## ✨ Features
